@@ -11,7 +11,9 @@
 - 💬 Ask me about **Blender/unity, Python, Markdown, C# or Anything related with Window**
 
 - ⚡ Fun fact **I am very interested in voice synthesis AI.**
-  
+
+- 💖 [**Team BRAPA**](https://github.com/Team-BRAPA) Member & Developer.
+
 - 👨‍💻 More at [fukaoni's notion](https://fuwukaoni.notion.site/Sou-o-Fuka-5fcfe0ce460b4093a14d8b049988e920)
 
 <br>
@@ -23,10 +25,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuka-oni&color=yellow" alt="Profile views" /> </p>
 
+
+
 <!--
+
+https://raw.githubusercontent.com/gist/fuka-oni/8a8aa7426a2b4e8d181697fc29ed83bb/raw/396694623bc253debb6258e840768f62717b5fc2/logo2%201.svg
 
 <br><br>
 
