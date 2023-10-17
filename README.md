@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fuka-oni/8a8aa7426a2b4e8d181697fc29ed83bb/raw/489b45ab504a7119f1e752dfe8f806f467152041/itimalafuka%201.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/fuka-oni/8a8aa7426a2b4e8d181697fc29ed83bb/raw/489b45ab504a7119f1e752dfe8f806f467152041/itimalafuka%201.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm FukaOni</h1>
 
 - 🤝 graduated in a Technical course in **Information Technology**.
@@ -21,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuka-oni&color=yellow" alt="Profile views" /> </p>
