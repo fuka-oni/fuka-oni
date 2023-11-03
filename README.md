@@ -8,7 +8,7 @@
 
 - 🗣 I Speak **Portugese**, **English** and **Japanese**.
   
-- 💬 Ask me about **Blender/unity, Python, Markdown, C# or Anything related with Window**
+- 💬 Ask me about **Blender/unity, Python, Markdown, C# or Anything related with Windows**
 
 - ⚡ Fun fact **I am very interested in voice synthesis AI.**
 
